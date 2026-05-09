@@ -22,7 +22,7 @@ No external dependencies: Only the built-in tkinter library is used.
 1. Make sure you have **Python 3.x.x** installed
 2. Download or clone the repository:
 ```bash
-git clone https://github.com/AmirCode228/python-clicker.git
+git clone https://github.com/AmirCode228/python_clicker.git
 ```
 3. Navigate to the project folder:
 ```bash
