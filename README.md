@@ -18,11 +18,4 @@ ENG:
   The program is a simple tkinter clicker. When you click the **'Click Me!'** button, the score increases by **1**\
   When you click the **'Delete score' WARNING** button, the score **resets**!
 
-## Как использовать — How to use
-
-RU:
-  1. Убедитесь что у вас установлен Python **3.x.x**
-  2. Скачайте или клонируйте репорзиторий:
-  ```bash
-  git clone https://github.com/AmirCode228/python-clicker.git
-
+## Как использовать 
