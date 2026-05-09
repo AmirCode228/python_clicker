@@ -38,6 +38,7 @@ python main.py
 
 python_clicker/\
 │\
+├── LICENSE\
 ├── README.md\
 ├── clicker_photo.png\
 ├── main.py          # Main program code (GUI and clicker logic)\
@@ -48,3 +49,6 @@ Programming Language: Python 3.x.x
 GUI Library: tkinter (built‑in)
 Data Persistence: Text file (score.txt)
 Compatibility: Windows, macOS, Linux
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
