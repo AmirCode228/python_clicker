@@ -36,11 +36,11 @@ python main.py
 
 ## Project structure
 
-python_clicker/
-│
-├── README.md
-├── clicker_photo.png
-├── main.py          # Main program code (GUI and clicker logic)
+python_clicker/\
+│\
+├── README.md\
+├── clicker_photo.png\
+├── main.py          # Main program code (GUI and clicker logic)\
 └── score.txt      # File to save the current score
 
 ## Technical Details
