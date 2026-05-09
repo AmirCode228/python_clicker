@@ -20,7 +20,9 @@ ENG:
 
 ## Как использовать — How to use
 
-1. Убедитесь что у вас установлен Python **3.x.x**
-2. Скачайте или клонируйте репорзиторий:
-```bash
-   git clone https://github.com/AmirCode228/python-clicker.git
+RU:
+  1. Убедитесь что у вас установлен Python **3.x.x**
+  2. Скачайте или клонируйте репорзиторий:
+  ```bash
+  git clone https://github.com/AmirCode228/python-clicker.git
+
