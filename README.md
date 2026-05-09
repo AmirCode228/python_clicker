@@ -26,7 +26,7 @@ git clone https://github.com/AmirCode228/python_clicker.git
 ```
 3. Navigate to the project folder:
 ```bash
-cd path/to/folder/
+cd python_clicker
 ```
 4. Run the program:
 ```bash
